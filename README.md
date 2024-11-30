@@ -26,11 +26,12 @@ This repository contains my solution to the Colored MNIST Challenge, where the o
 - **data/**: Scripts and links to download datasets.
 
 
-<div align="center" style="color: red;">
+<div align="center">
 <strong>
-The dataset for the hard level is a large file that doesn't exist in this repo: make sure to download it from this link: https://drive.google.com/file/d/1L_RYPVH94ntWnm6b8okzfMobZhNr1IEh/view?usp=sharing, and add it to the data/ folder
+🚨The dataset for the hard level is a large file that doesn't exist in this repo: make sure to download it from this link: https://drive.google.com/file/d/1L_RYPVH94ntWnm6b8okzfMobZhNr1IEh/view?usp=sharing, and add it to the data/ folder🚨
 </strong>
 </div>
+
 
 - **predictions/**: Contains the files with the models predictions of the labels of the testing datasets.
 - **solutions/**: Contains the files with the correct labels of the testing datasets.
