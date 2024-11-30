@@ -25,7 +25,7 @@ This repository contains my solution to the Colored MNIST Challenge, where the o
 
 - **data/**: Scripts and links to download datasets.
 
-<p style="text-align: center; color: red; font-weight: bold;">
+<p style="text-align: center!important; color: red!important; font-weight: bold!important;">
 The dataset for the hard level is a large file that doesn't exist in this repo: make sure to download it from this link: https://drive.google.com/file/d/1L_RYPVH94ntWnm6b8okzfMobZhNr1IEh/view?usp=sharing, and add it to the data/ folder
 </p>
 
